@@ -5,7 +5,5 @@ I'm currently pursuing a Master in Computer Science and Digital Innovation (MCSD
 🎓 Studying computer science at IE (2026–)
 🌱 Learning by building — this GitHub is where my coursework and side projects live
 🤝 Open to connecting with fellow students, developers, and builders
-🧰 Tools & Tech
 
-📫 Get in touch
-LinkedIn: www.linkedin.com/in/christiandsdg
+📫 LinkedIn: www.linkedin.com/in/christiandsdg
